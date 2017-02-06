@@ -18,7 +18,7 @@ Criterios de calidad por Aerolab: `https://aerolab.github.io/criterios/`
 
 ### Recursos para sketch
 * [sketchappsources](https://www.sketchappsources.com/all-free-sources.html)
-* 
+*
 
 # CSS
 *	[lost grid](http://lostgrid.org/docs.html)
@@ -33,6 +33,17 @@ Criterios de calidad por Aerolab: `https://aerolab.github.io/criterios/`
 * [RetinaJS](http://imulus.github.io/retinajs/)
 * [BeLazy](http://dinbror.dk/blazy/)
 * [SRCSET](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+
+```
+@media (-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+
+  .box{
+    background:url('images/box-bg@2x.png') no-repeat top left;
+    background-size: 200px 200px;
+  }
+}
+```
 
 `<img src="images/captive.png" srcset="images/captive.png 1x, images/captive@2x.png 2x">`
 
