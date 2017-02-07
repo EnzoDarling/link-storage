@@ -4,6 +4,8 @@ Criterios de calidad por Aerolab: `https://aerolab.github.io/criterios/`
 
 Para ver compatibilidad con los navegadores `http://caniuse.com/`
 
+Resumen de lo visto previamente [Medium article](https://medium.com/pixelpoint/handoffs-guide-for-pixel-perfect-design-part-i-8bbd95d8ffcd#.t02b4cije)
+
 # Diseño
 *  [5 Patrones de diseño Responsive](https://carlosazaustre.es/blog/los-5-patrones-del-responsive-design/)
 *  [Tips de Typografía legible](http://blog.invisionapp.com/typography-tips/)
