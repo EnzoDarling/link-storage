@@ -29,6 +29,8 @@ Para ver compatibilidad con los navegadores `http://caniuse.com/`
 *  [POSTCSS](http://postcss.org/)
 *  [NormalizeCSS](https://necolas.github.io/normalize.css/)
 *  [POSTCSS Assets](https://github.com/borodean/postcss-assets)
+*  [POSTCSS BrandColors](https://github.com/postcss/postcss-brand-colors)
+*  [POSTCSS Font Awesome](https://github.com/dan-gamble/postcss-font-awesome)
 
 # Desarrollo
 
