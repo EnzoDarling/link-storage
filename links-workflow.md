@@ -33,6 +33,7 @@ Resumen de lo visto previamente [Medium article](https://medium.com/pixelpoint/h
 *  [POSTCSS Assets](https://github.com/borodean/postcss-assets)
 *  [POSTCSS BrandColors](https://github.com/postcss/postcss-brand-colors)
 *  [POSTCSS Font Awesome](https://github.com/dan-gamble/postcss-font-awesome)
+*  [Guía gráfica de flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.e7ba0rrfv)
 
 # Desarrollo
 
