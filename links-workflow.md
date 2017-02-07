@@ -1,5 +1,8 @@
 Uno de los mejores portfolios: `http://www.rleonardi.com/interactive-resume/` :)
+
 Criterios de calidad por Aerolab: `https://aerolab.github.io/criterios/`
+
+Para ver compatibilidad con los navegadores `http://caniuse.com/`
 
 # Diseño
 *  [5 Patrones de diseño Responsive](https://carlosazaustre.es/blog/los-5-patrones-del-responsive-design/)
